@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Orji David Chukwudi</h1>
-<h3 align="center">A goal focused and technically skilled Software Engineer positioned to contribute to the development of innovative software solutions.</h3>
+<h3 align="center">A goal focused and technically skilled Software Engineer | Technical Support, positioned to contribute to the development of innovative software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayvid0063&label=Profile%20views&color=0e75b6&style=flat" alt="dayvid0063" /> </p>
 
-- 🔭 I’m currently working on **Deploying full-stack applications and contributing to open-source projects.**
+- 🔭 I’m currently **Deploying full-stack applications and contributing to open-source projects.**
 
-- 🌱 I’m currently learning **DevOps (Docker, Ansible, AWS) and New Technologies to improve my skills.**
+- 🌱 I’m currently learning **New Technologies to improve my skills.**
+
+- ⚡ Expertise in cloud infrastructure (AWS/Vercel), automation (Python/Ansible), and cross-platform troubleshooting.
+
+- 👨‍💻 Passionate about resolving complex issues and improving user experiences.
 
 - 👯 I’m looking to collaborate on **Open-source projects focused on developing my skills and productivity.**
 
@@ -15,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@orjidavid0063](https://medium.com/@orjidavid0063)
 
-- 💬 Ask me about **JavaScript, Node.js, React Native**
+- 💬 Ask me about **JavaScript, Node.js, Python, Golang, React Native**
 
 - 📫 How to reach me **orjidavid0063@gmail.com**
 
